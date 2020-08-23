@@ -1,0 +1,11 @@
+{
+  "name": "parcel-2-middleware",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.0.0-nightly.377"
+  }
+}
